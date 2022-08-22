@@ -9,5 +9,7 @@ public class Main {
 
 
         System.out.println("test 1 2");
+
+        int i = 0;
     }
 }
